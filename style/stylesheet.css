@@ -1,3 +1,16 @@
 * {
-    background-color: rgb(219, 230, 139)
+    background-color: rgb(219, 230, 139);
+
 }
+
+.meat {
+    border: 2px solid red;
+}
+
+.seafood {
+    border: 2px solid blue;
+}
+.greens {
+    border: 2px solid green;
+}
+
