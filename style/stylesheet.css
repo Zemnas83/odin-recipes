@@ -5,12 +5,18 @@
 
 .meat {
     border: 2px solid red;
+    margin: auto;
+    padding: 20px; 
 }
 
 .seafood {
     border: 2px solid blue;
+    margin: auto;
+    padding: 20px;
 }
 .greens {
     border: 2px solid green;
+    margin: auto;
+    padding: 20px;
 }
 
